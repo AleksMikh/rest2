@@ -31,7 +31,7 @@
       "currency": {
         "type": "string",
         "enum": ["USD"],
-        "enum": ["USD", "RUB"]
+        "enum": ["USA", "RUR"]
       }
     }
   }
