@@ -18,7 +18,7 @@ public class rest2Test {
 // Проверки
                 .then()
                 .statusCode(200)
-                .body("data",equalTo("some data"))
+                .body("data",equalTo("s0me d@ta"))
         ;
     }
 }
